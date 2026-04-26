@@ -1,79 +1,103 @@
 # Flutter Developer Portfolio
 
-Chào mừng đến với trang portfolio cá nhân của **Nguyen Hoang Lam** - Flutter Mobile Developer với hơn 4 năm kinh nghiệm phát triển ứng dụng di động enterprise-level! 🚀📱
+Portfolio cá nhân của **Nguyen Hoang Lam** — Flutter Mobile Developer với 5+ năm kinh nghiệm xây dựng ứng dụng di động production-ready trong các lĩnh vực fintech, thanh toán, bán lẻ và dược phẩm.
 
-## 👨‍💻 Về Tôi
+---
 
-Tôi là một Flutter Developer đam mê tạo ra những ứng dụng di động chất lượng cao, có khả năng mở rộng và dễ bảo trì. Mục tiêu của tôi là trở thành Mobile Team Leader và mở rộng kỹ năng để trở thành Fullstack Developer.
+## Về Tôi
 
-### 🎯 Chuyên Môn
-- **Flutter & Dart** - Phát triển ứng dụng cross-platform
-- **State Management** - Provider, Bloc, Riverpod
-- **Firebase** - Backend services và real-time database
-- **API Integration** - REST APIs, GraphQL
-- **Mobile UI/UX** - Thiết kế giao diện người dùng trực quan
+Flutter Developer chuyên xây dựng ứng dụng mobile enterprise-level với trọng tâm vào kiến trúc có thể mở rộng, tích hợp API ổn định, state management rõ ràng, tối ưu hiệu năng và quy trình release production-ready. Đang mở rộng hướng full-stack để nắm bắt kiến trúc sản phẩm đầu cuối và cộng tác hiệu quả hơn với backend, QA và product teams.
 
-### 🏢 Kinh Nghiệm Làm Việc
-- **NextPay Digital Transformation Group JSC** (11/2021 - Hiện tại)
-  - Mobile Developer Flutter
-  - Phát triển 6+ ứng dụng: NextPharma, NextShop, Next360, VimoWork, mPOS, Tingbox.vn
+---
 
-### 🎓 Học Vấn
-- **Đại học Bách Khoa Hà Nội** (2014-2020)
-  - Khoa Công nghệ Thông tin
-  - Chuyên ngành: Thiết kế và Quản lý Hệ thống Thông tin
-  - Xếp loại: Khá, GPA: 7.21/10
+## Kỹ Năng Cốt Lõi
 
-## 🛠️ Công Nghệ Sử Dụng
+| Lĩnh Vực | Chi Tiết |
+|---|---|
+| **Dart & Flutter** | Null-safety, async programming, widget lifecycle, platform-aware UI |
+| **Architecture** | Clean Architecture, SOLID, repository/service layers, feature modules |
+| **State Management** | GetX, Bloc, MobX |
+| **API & Integration** | REST API, MQTT, Firebase, payment SDKs |
+| **Data & Offline** | Hive, SQLite, Secure Storage, cache & sync strategies |
+| **Testing** | Unit, widget, integration testing; code review discipline |
+| **CI/CD** | GitHub Actions, Codemagic, Git-based release workflows |
+| **Performance** | Flutter DevTools, profiling, lazy loading, build size optimization |
 
-- **Frontend**: Flutter, Dart, HTML, CSS, JavaScript
-- **Backend**: Firebase, REST APIs, GraphQL
-- **Tools**: Git, VS Code, Android Studio, Xcode
-- **Frameworks**: Provider, Bloc, GetX, Riverpod
+---
 
-## 📱 Dự Án Nổi Bật
+## Kinh Nghiệm Làm Việc
 
-### 1. **NextPharma** - Ứng dụng Quản lý Nhà thuốc
-Hệ thống số hóa toàn bộ quy trình kinh doanh thuốc, tiết kiệm thời gian và chi phí.
+### NextPay Digital Transformation Group JSC
+**Flutter Mobile Developer** · 11/2021 – Hiện tại
 
-### 2. **NextShop** - Ứng dụng Quản lý Bán lẻ
-Giải pháp quản lý bán hàng giúp cửa hàng theo dõi hoạt động kinh doanh và quản lý kho hiệu quả.
+- **Tingbox.vn** (formerly MPOS360) — Ứng dụng quản lý đối tác mPOS, cảnh báo giao dịch thời gian thực qua MQTT. Stack: Flutter, GetX, Firebase, MQTT, ffmpeg
+- **Next360** — Super-app tích hợp các sub-app trong hệ sinh thái NextPay. Stack: Flutter, MobX, REST API
+- **mPOS** — Giải pháp thanh toán toàn diện (thẻ tín dụng, QR, ví điện tử). Stack: Flutter, mPOS SDK
+- **VimoWork** — Ứng dụng ví điện tử (nạp tiền, thanh toán, chuyển tiền, mua sắm). Stack: Flutter, GetX, Firebase, REST API
+- **NextShop** — Ứng dụng quản lý bán lẻ (đơn hàng, kho, báo cáo, biểu đồ). Stack: Flutter, Provider + MobX, Firebase, FL Chart
+- **NextPharma** — Hệ thống quản lý nhà thuốc (app mua hàng cho nhà thuốc, app bán hàng cho nhà cung cấp). Stack: Flutter, MobX, Firestore, REST API
 
-### 3. **mPOS** - Ứng dụng Giải pháp Thanh toán
-Giải pháp thanh toán toàn diện cho cá nhân và doanh nghiệp với nhiều phương thức thanh toán.
+### EPR Software JSC
+**Android Developer Intern** · 06/2019 – 06/2020
 
-## 🚀 Cách Chạy Dự Án
+- **Go Now** — Ứng dụng gọi xe công nghệ. Stack: Android, Java, Retrofit, GSON
 
-1. **Cài đặt dependencies:**
-```bash
-npm install
-```
+---
 
-2. **Chạy development server:**
-```bash
-npm run dev
-```
+## Học Vấn
 
-3. **Mở trình duyệt và truy cập:**
-```
-http://localhost:3000
-```
+| Trường | Chuyên ngành | Thời gian | Kết quả |
+|---|---|---|---|
+| Đại học Bách Khoa Hà Nội | Thiết kế & Quản lý Hệ thống Thông tin | 2014 – 2020 | Khá, GPA 7.21/10 |
+| THPT Chuyên Thái Bình | — | 2011 – 2014 | — |
 
-## 📞 Liên Hệ
+---
+
+## Dự Án Nổi Bật
+
+| Dự Án | Mô Tả | Link |
+|---|---|---|
+| **Tingbox.vn** | Quản lý đối tác mPOS, cảnh báo thanh toán real-time | [tingbox.vn](https://tingbox.vn/) |
+| **mPOS** | Giải pháp thanh toán đa phương thức | [mpos.vn](https://mpos.vn/tra-gop-khong-phan-tram) |
+| **NextShop** | Quản lý bán lẻ, thống kê kinh doanh | [nextshop.next360.vn](https://nextshop.next360.vn/homepage) |
+
+---
+
+## Freelance Projects
+
+Các domain đã áp dụng Flutter để giải quyết nhu cầu sản phẩm thực tế:
+
+- Fire Alarm App — Phát hiện và cảnh báo cháy real-time
+- E-Wallet Super App — Thanh toán, chuyển tiền, quản lý giao dịch
+- Flight Management App — Quy trình quản lý chuyến bay trên mobile
+- Building Management App — Quản lý chung cư, văn phòng cho cư dân và admin
+- English Learning App — Trải nghiệm học tiếng Anh tương tác theo lộ trình
+- Travel Guide App — Khám phá địa điểm du lịch và lập kế hoạch hành trình
+- Football Player Management App — Hồ sơ cầu thủ, dữ liệu đội và quản lý câu lạc bộ
+- Smart Education Platform — Kết nối trường học, phụ huynh và giáo viên
+- NFT Sharing App — Khám phá, chia sẻ và tương tác với tài sản NFT
+
+---
+
+## Tech Stack của Portfolio Website
+
+- **HTML5** — Cấu trúc trang
+- **Tailwind CSS** — Styling utility-first
+- **JavaScript** — Animations, scroll effects, terminal typing effect
+- **Font Awesome 6** — Icon system
+- **Google Fonts (Inter)** — Typography
+- **Dark / Light Mode** — Chuyển đổi theme không reload
+- **Responsive Design** — Tối ưu cho mọi thiết bị
+
+---
+
+## Liên Hệ
 
 - **Email**: nguyenhoanglam047@gmail.com
 - **Phone**: 0981353061
 - **Location**: Hai Bà Trưng, Hà Nội
-- **GitHub**: [flutter_portfolio](https://github.com/hoanglam47dev/flutter_portfolio)
-
-## 🌟 Tính Năng Portfolio
-
-- ✅ **Responsive Design** - Tối ưu cho mọi thiết bị
-- ✅ **Dark/Light Mode** - Chuyển đổi theme mượt mà
-- ✅ **Smooth Animations** - Hiệu ứng chuyển động đẹp mắt
-- ✅ **Interactive Sections** - Các phần tương tác thú vị
-- ✅ **Modern UI/UX** - Thiết kế hiện đại, chuyên nghiệp
+- **GitHub**: [hoanglam47dev/flutter_portfolio](https://github.com/hoanglam47dev/flutter_portfolio)
 
 ---
 
-*Được xây dựng với ❤️ bằng HTML, CSS, JavaScript và Tailwind CSS*
+*Built with HTML, Tailwind CSS & JavaScript*
