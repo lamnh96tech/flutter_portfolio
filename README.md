@@ -18,8 +18,8 @@ Flutter Developer chuyên xây dựng ứng dụng mobile enterprise-level với
 | **Architecture** | Clean Architecture, SOLID, repository/service layers, feature modules |
 | **State Management** | GetX, Bloc, MobX |
 | **API & Integration** | REST API, MQTT, Firebase, payment SDKs |
+| **AI-Augmented Dev** | Crafting rules, custom skills, automated agents, prompt-driven pipelines |
 | **Data & Offline** | Hive, SQLite, Secure Storage, cache & sync strategies |
-| **Testing** | Unit, widget, integration testing; code review discipline |
 | **CI/CD** | GitHub Actions, Codemagic, Git-based release workflows |
 | **Performance** | Flutter DevTools, profiling, lazy loading, build size optimization |
 
